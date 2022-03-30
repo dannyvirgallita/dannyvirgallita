@@ -6,7 +6,8 @@
 Makeblock 2 è un robot personalizzabile da assemblare da zero con i pezzi che vengono dati in dotazione,si habnno vari metodi di assemblamento e danno tutti una funzione diversa al robot.Uno si chiama Robotic Arm Tank che consiste in una specie di ruspa con un braccio meccanico fatto muovere attraverso un motore elettrico e puo sollevare oggietti di vario tipo ad esempio una pallina oppure una bottiglia puo inoltre muoversi su vari terreni grazie a dei cingoli fatti di gomma.
 Poi si ha il beverage bot che ha un supporto sopra che si muove a diverse angolazioni e puo supportare una bottiglia d'acqua e versare l'acqua in un bicchiere.
 Infine si ha il Camera Dolly che è un robot che attraverso un supporto che gira a 360° permette di e registrare video attraverso una video camera installata sopra.
-![wall e](https://user-images.githubusercontent.com/101712850/159693087-3d5fa82f-08b6-4185-9492-320a17a61cb2.jpg)
+<p width=500 height=500> ![wall e](https://user-images.githubusercontent.com/101712850/160780760-20fb60d6-237a-44e7-a37b-f94fc9cfa400.jpg)</p>
+
 ## Costruzione 
 per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare il robot, l'assemblaggio è stato molto semplice perchè era presente il libretto da seguire passo dopo passo.Finito questo passaggio siamo passati alla parte robotica con la quale la ruspa si può muovere in tutte le direzioni, può muovere il braccio meccanico e può prendere gli oggetti come viene presentato nel video
 
