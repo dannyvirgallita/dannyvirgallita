@@ -7,6 +7,9 @@ Makeblock 2 è un robot personalizzabile da assemblare da zero con i pezzi che v
 Poi si ha il beverage bot che ha un supporto sopra che si muove a diverse angolazioni e puo supportare una bottiglia d'acqua e versare l'acqua in un bicchiere.
 Infine si ha il Camera Dolly che è un robot che attraverso un supporto che gira a 360° permette di e registrare video attraverso una video camera installata sopra.
 
+
+
+
 ![wall e ](https://user-images.githubusercontent.com/101712850/160784886-c796e22a-1f64-4551-8a94-6ac10a84b788.jpg)
 
 
