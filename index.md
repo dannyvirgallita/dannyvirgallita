@@ -26,7 +26,7 @@ Per collegare mBot al PC e programmarlo puoi utilizzare il software proprietario
 
 Il collegamento del robot può avvenire attraverso tre tipi di connessione: cavo USB, modulo Bluetooth, modulo 2.4 G.
 
-Una volta avviato il programma, il primo passo che devi eseguire è far comparire nella scheda “Dispositivi” il blocco di Ultimate 2.0 e di conseguenza i blocchi di programmazione specifici. Per farlo clicca sulla scheda “Dispositivi” e poi sul pulsante “aggiungi” situato a sinistra della schermata fai doppio clic su “Ultimate 2.0” 
+Una volta avviato il programma, il primo passo che devi eseguire è far comparire nella scheda “Dispositivi” il blocco di Ultimate 2.0 e di conseguenza i blocchi di programmazione specifici. Per farlo clicca sulla scheda “Dispositivi” e poi sul pulsante “aggiungi” situato a sinistra della schermata fai doppio clic su “Ultimate 2.0”.
 
 ![mbot grosso](https://user-images.githubusercontent.com/101712850/164217147-6f083dec-4b5d-4979-b7cd-cc1620d00237.jpg)
 
