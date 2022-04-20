@@ -19,9 +19,6 @@ per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZ1nzw_RosA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Se non si ha la possibilità di collegarsi via wireless prova ad effettuare la prima connessione con il cavo USB e poi aggiorna il firmware del robot cliccando su “Impostazioni”. A questo punto riprova a collegarti con il Bluetooth o con il modulo 2.4 G.
-
-![R3figura 5 (1)](https://user-images.githubusercontent.com/101712850/164217754-b7291db0-c404-4783-8f5e-0f4ed1aff217.jpg)
 
 ## Collegamento del robot mBot al software mBlock 
 
@@ -36,6 +33,9 @@ Una volta avviato il programma, il primo passo che devi eseguire è far comparir
 
 ![mbot grosso](https://user-images.githubusercontent.com/101712850/164217147-6f083dec-4b5d-4979-b7cd-cc1620d00237.jpg)
 
+Se non si ha la possibilità di collegarsi via wireless prova ad effettuare la prima connessione con il cavo USB e poi aggiorna il firmware del robot cliccando su “Impostazioni”. A questo punto riprova a collegarti con il Bluetooth o con il modulo 2.4 G.
+
+![R3figura 5 (1)](https://user-images.githubusercontent.com/101712850/164217754-b7291db0-c404-4783-8f5e-0f4ed1aff217.jpg)
 
 
 
