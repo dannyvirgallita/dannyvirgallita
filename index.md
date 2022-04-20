@@ -18,7 +18,7 @@ Infine si ha il Camera Dolly che è un robot che attraverso un supporto che gira
 ## Costruzione 
 per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare il robot, l'assemblaggio è stato molto semplice perchè era presente il libretto da seguire passo dopo passo.Finito questo passaggio siamo passati alla parte robotica con la quale la ruspa si può muovere in tutte le direzioni, può muovere il braccio meccanico e può prendere gli oggetti come viene presentato nel video
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LZ1nzw_RosA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Programmazione
 
@@ -34,6 +34,6 @@ Nella categoria “Azione” sono racchiuse tutte le istruzioni che gestiscono i
 
 ## Collegamento del robot mBot al software mBlock 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LZ1nzw_RosA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
