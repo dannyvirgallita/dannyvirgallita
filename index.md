@@ -7,10 +7,9 @@ Makeblock 2 è un robot personalizzabile da assemblare da zero con i pezzi che v
 Poi si ha il beverage bot che ha un supporto sopra che si muove a diverse angolazioni e puo supportare una bottiglia d'acqua e versare l'acqua in un bicchiere.
 Infine si ha il Camera Dolly che è un robot che attraverso un supporto che gira a 360° permette di e registrare video attraverso una video camera installata sopra.
 
-
-
-
 ![wall e ](https://user-images.githubusercontent.com/101712850/160784886-c796e22a-1f64-4551-8a94-6ac10a84b788.jpg)
+
+
 
 
 
@@ -19,6 +18,10 @@ Infine si ha il Camera Dolly che è un robot che attraverso un supporto che gira
 per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare il robot, l'assemblaggio è stato molto semplice perchè era presente il libretto da seguire passo dopo passo. Finito questo passaggio siamo passati alla parte robotica con la quale la ruspa si può muovere in tutte le direzioni, può muovere il braccio meccanico e può prendere gli oggetti come viene presentato nel video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZ1nzw_RosA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Se non si ha la possibilità di collegarsi via wireless prova ad effettuare la prima connessione con il cavo USB e poi aggiorna il firmware del robot cliccando su “Impostazioni”. A questo punto riprova a collegarti con il Bluetooth o con il modulo 2.4 G.
+
+![R3figura 5 (1)](https://user-images.githubusercontent.com/101712850/164217754-b7291db0-c404-4783-8f5e-0f4ed1aff217.jpg)
 
 ## Collegamento del robot mBot al software mBlock 
 
@@ -31,9 +34,9 @@ Il collegamento del robot può avvenire attraverso tre tipi di connessione:
 
 Una volta avviato il programma, il primo passo che devi eseguire è far comparire nella scheda “Dispositivi” il blocco di Ultimate 2.0 e di conseguenza i blocchi di programmazione specifici. Per farlo clicca sulla scheda “Dispositivi” e poi sul pulsante “aggiungi” situato a sinistra della schermata fai doppio clic su “Ultimate 2.0” 
 
-![mbot 2](https://user-images.githubusercontent.com/101712850/164213106-b26eb676-1201-4007-b4d9-92d88a823c03.png)
+![mbot grosso](https://user-images.githubusercontent.com/101712850/164217147-6f083dec-4b5d-4979-b7cd-cc1620d00237.jpg)
 
-![mbot 3](https://user-images.githubusercontent.com/101712850/164214776-a53bcd45-5da3-4a02-a80c-e9af537ac64c.png)
+
 
 
 
