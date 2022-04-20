@@ -24,10 +24,7 @@ per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare 
 
 Per collegare mBot al PC e programmarlo puoi utilizzare il software proprietario mBlock, sia nella versione desktop che in quella online, con o senza registrazione.
 
-Il collegamento del robot può avvenire attraverso tre tipi di connessione:
-*cavo USB
-*modulo Bluetooth
-*modulo 2.4 G
+Il collegamento del robot può avvenire attraverso tre tipi di connessione: cavo USB, modulo Bluetooth, modulo 2.4 G.
 
 Una volta avviato il programma, il primo passo che devi eseguire è far comparire nella scheda “Dispositivi” il blocco di Ultimate 2.0 e di conseguenza i blocchi di programmazione specifici. Per farlo clicca sulla scheda “Dispositivi” e poi sul pulsante “aggiungi” situato a sinistra della schermata fai doppio clic su “Ultimate 2.0” 
 
