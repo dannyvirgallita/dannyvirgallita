@@ -20,6 +20,22 @@ per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZ1nzw_RosA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Collegamento del robot mBot al software mBlock 
+
+Per collegare mBot al PC e programmarlo puoi utilizzare il software proprietario mBlock, sia nella versione desktop che in quella online, con o senza registrazione.
+
+Il collegamento del robot può avvenire attraverso tre tipi di connessione:
+*cavo USB
+*modulo Bluetooth
+*modulo 2.4 G
+
+Una volta avviato il programma, il primo passo che devi eseguire è far comparire nella scheda “Dispositivi” il blocco di Ultimate 2.0 e di conseguenza i blocchi di programmazione specifici. Per farlo clicca sulla scheda “Dispositivi” e poi sul pulsante “aggiungi” situato a sinistra della schermata fai doppio clic su “Ultimate 2.0” 
+![mbot 2](https://user-images.githubusercontent.com/101712850/164213106-b26eb676-1201-4007-b4d9-92d88a823c03.png)
+
+
+
+
+
 ## Programmazione
 
 Nella categoria “Azione” sono racchiuse tutte le istruzioni che gestiscono i motori. Avrai notato che  dovrai settare i valori di potenza, invece il controllo temporale non viene effettuato e il motore sarà sempre acceso fintantoché non verrà utilizzata l’istruzione di stop (l’ultima della lista). 
@@ -32,11 +48,6 @@ Per gestire completamente lo spostamento di mBot puoi utilizzare invece questo s
 
 ![mbot](https://user-images.githubusercontent.com/101712850/164207248-e44665e1-b7e9-4a48-975d-10a5d3ca40a0.png)
 
-
-
-![macblock fermo](https://user-images.githubusercontent.com/101712850/161962973-9e4bb39d-2577-441f-ada5-0a8617f5df58.png)
-
-## Collegamento del robot mBot al software mBlock 
 
 
 
