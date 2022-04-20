@@ -30,8 +30,10 @@ Il collegamento del robot può avvenire attraverso tre tipi di connessione:
 *modulo 2.4 G
 
 Una volta avviato il programma, il primo passo che devi eseguire è far comparire nella scheda “Dispositivi” il blocco di Ultimate 2.0 e di conseguenza i blocchi di programmazione specifici. Per farlo clicca sulla scheda “Dispositivi” e poi sul pulsante “aggiungi” situato a sinistra della schermata fai doppio clic su “Ultimate 2.0” 
+
 ![mbot 2](https://user-images.githubusercontent.com/101712850/164213106-b26eb676-1201-4007-b4d9-92d88a823c03.png)
 
+![mbot 3](https://user-images.githubusercontent.com/101712850/164214776-a53bcd45-5da3-4a02-a80c-e9af537ac64c.png)
 
 
 
