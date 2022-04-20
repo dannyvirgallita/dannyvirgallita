@@ -22,6 +22,7 @@ per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare 
 
 ## Programmazione
 
+Nella categoria “Azione” sono racchiuse tutte le istruzioni che gestiscono i motori. Avrai notato che  dovrai settare i valori di potenza, invece il controllo temporale non viene effettuato e il motore sarà sempre acceso fintantoché non verrà utilizzata l’istruzione di stop (l’ultima della lista). 
 
 ![macblock avanti](https://user-images.githubusercontent.com/101712850/161962883-c1e638f2-d35f-432b-ba4c-68ab8a0de64b.png)
 
@@ -31,6 +32,7 @@ per costrire arm tank nella scatola avevamo a disposizione attrezzi per montare 
 
 ![macblock fermo](https://user-images.githubusercontent.com/101712850/161962973-9e4bb39d-2577-441f-ada5-0a8617f5df58.png)
 
+## Collegamento del robot mBot al software mBlock 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZ1nzw_RosA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
